@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "556585309071",
+    "firebase_url": "https://askme-532d0-default-rtdb.firebaseio.com",
+    "project_id": "askme-532d0",
+    "storage_bucket": "askme-532d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556585309071:android:eea15a751864c057eaf1fa",
+        "android_client_info": {
+          "package_name": "com.example.askme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChFZ0KrEFo-2Pv5WsMia6uAYTPmA9jPFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
